@@ -1,4 +1,4 @@
-# NODE Backend
+# NODE
 
 Backend API built with Node.js, Express.js, and MongoDB.
 
@@ -14,8 +14,8 @@ npm install
 Create a `.env` file:
 
 ```env
-PORT=5000
-MONGO_URI=
+PORT=4000
+MONGO_URI= mongodb-url-here
 ```
 
 ## Run Locally
@@ -30,7 +30,3 @@ npm run dev
 - Express.js
 - MongoDB
 - Mongoose
-
-## License
-
-MIT
