@@ -5,7 +5,7 @@ Backend API built with Node.js, Express.js, and MongoDB.
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/idipangkar-ai/node-dev-basics.git
 npm install
 ```
 
